@@ -1,0 +1,1381 @@
+﻿<!doctype html>
+<html lang="en">
+
+<head>
+   
+    <!--====== Required meta tags ======-->
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <!--====== Title ======-->
+    <title>Furnish - Furniture and Decor Website Template</title>
+    
+    <!--====== Favicon Icon ======-->
+    <link rel="shortcut icon" href="favicon.png" type="image/png">
+
+    <!--====== Bootstrap css ======-->
+    <link rel="stylesheet" href="bootstrap.min.css">
+    
+    <!--====== Animate css ======-->
+    <link rel="stylesheet" href="animate.css">
+    
+    <!--====== Magnific Popup css ======-->
+    <link rel="stylesheet" href="magnific-popup.css">
+    
+    <!--====== Slick css ======-->
+    <link rel="stylesheet" href="slick.css">
+    
+    <!--====== Line Icons css ======-->
+    <link rel="stylesheet" href="LineIcons.css">
+    
+    <!--====== Default css ======-->
+    <link rel="stylesheet" href="default.css">
+    
+    <!--====== Style css ======-->
+    <link rel="stylesheet" href="style.css">
+    
+    <!--====== Responsive css ======-->
+    <link rel="stylesheet" href="responsive.css">
+  
+  
+</head>
+
+<body>
+   
+    <!--====== PRELOADER PART START ======-->
+    
+    <div class="preloader">
+        <div class="spin">
+            <div class="cube1"></div>
+            <div class="cube2"></div>
+        </div>
+    </div>
+    
+    <!--====== PRELOADER PART START ======-->
+    
+    <!--====== HEADER PART START ======-->
+    
+    <header class="header-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <nav class="navbar navbar-expand-lg">
+                        <a class="navbar-brand" href="index.html">
+                            <img src="logo.png" alt="Logo">
+                        </a> <!-- Logo -->
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="bar-icon"></span>
+                            <span class="bar-icon"></span>
+                            <span class="bar-icon"></span>
+                        </button>
+
+                        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                            <ul id="nav" class="navbar-nav ml-auto">
+
+<li class="nav-item">
+                                    <a data-scroll-nav="0" href="#contact">مخاطب</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a data-scroll-nav="0" href="#product">محصولات</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a data-scroll-nav="0" href="#service">خدمات</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a data-scroll-nav="0" href="#showcase">نمونه کارها</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a data-scroll-nav="0" href="#team">تیم</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a data-scroll-nav="0" href="#blog">بلاگ</a>
+                                </li>
+<li class="nav-item active">
+                                <a data-scroll-nav="0" href="#home">خانه</a>
+                                </li>
+                            </ul> <!-- navbar nav -->
+                        </div>
+                    </nav> <!-- navbar -->
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </header>
+    
+    <!--====== HEADER PART ENDS ======-->
+   
+    <!--====== SLIDER PART START ======-->
+    
+    <section id="home" class="slider-area pt-100">
+        <div class="container-fluid position-relative">
+            <div class="slider-active">
+                <div class="single-slider">
+                    <div class="slider-bg">
+                        <div class="row no-gutters align-items-center ">
+                            <div class="col-lg-4 col-md-5">
+                                <div class="slider-product-image d-none d-md-block">
+                                    <img src="1.jpg" alt="Slider">
+                                    <div class="slider-discount-tag">
+                                        <p>تخفیف<br>50%</p>
+                                    </div>
+                                </div> <!-- slider product image -->
+                            </div>
+                            <div class="col-lg-8 col-md-7">
+                                <div class="slider-product-content">
+                                    <h1 style="text-align: right;" class="slider-title mb-10" data-animation="fadeInUp" data-delay="0.3s"><span>و</span>کاناپه<span>صندلی های راحتی</span></h1>
+                                    <p class="mb-25" data-animation="fadeInUp" data-delay="0.9s">با مبل ها و صندلی های راحتی ما آرامش و آسایش را به خانه خود بیاورید<br><p>با یک سال ضمانت و تضمین کیفیت عالی</p><br>
+                                    <a class="main-btn" href="#" data-animation="fadeInUp" data-delay="1.5s">کاوش بیشتر<i class="lni-chevron-right"></i></a>
+                                </div> <!-- slider product content -->
+                            </div>
+                        </div> <!-- row -->
+                    </div> <!-- container -->
+                </div> <!-- single slider -->
+
+                <div class="single-slider">
+                        <div class="slider-bg">
+                            <div class="row no-gutters align-items-center">
+                                <div class="col-lg-4 col-md-5">
+                                    <div class="slider-product-image d-none d-md-block">
+                                        <img src="3.jpg" alt="Slider">
+                                        <div class="slider-discount-tag">
+                                            <p>تخفیف<br>20%</p>
+                                        </div>
+                                    </div> <!-- slider product image -->
+                                </div>
+                                <div class="col-lg-8 col-md-7">
+                                    <div class="slider-product-content">
+                                        <h1 style="text-align: right;" class="slider-title mb-10" data-animation="fadeInUp" data-delay="0.3s">زمستانی<span>فروش</span> <span>اینجاست</span></h1>
+                                        <p class="mb-25" data-animation="fadeInUp" data-delay="0.9s">در فروش زمستانی ما  علاوه بر دریافت تخفیف های 20 درصدی.بهترین  دکوراسیون چوبی برای خانه خود را از ما دریافت کنید<br>این دکوراسیون شامل مبلمان ومیزوتابلو های چوبی زیبا و شومینه  میشود</p>
+                                        <a class="main-btn" href="#" data-animation="fadeInUp" data-delay="1.5s">کاوش بیشتر<i class="lni-chevron-right"></i></a>
+                                    </div> <!-- slider product content -->
+                                </div>
+                            </div> <!-- row -->
+                        </div> <!-- container -->
+                </div> <!-- single slider -->
+
+                <div class="single-slider">
+                        <div class="slider-bg">
+                            <div class="row no-gutters align-items-center">
+                                <div class="col-lg-4 col-md-5">
+                                    <div class="slider-product-image d-none d-md-block">
+                                        <img src="2.jpg" alt="Slider">
+                                        <div class="slider-discount-tag">
+                                            <p>نقل قول<br>رایگان</p>
+                                        </div>
+                                    </div> <!-- slider product image -->
+                                </div>
+                                <div class="col-lg-8 col-md-7">
+                                    <div class="slider-product-content">
+                                        <h1 style="text-align: right;" class="slider-title mb-10" data-animation="fadeInUp" data-delay="0.3s"><span>رایگان </span>یک پیشنهاد<span>دریافت کنید</span></h1>
+                                        <p class="mb-25" data-animation="fadeInUp" data-delay="0.9s">شما میتوانید با خرید دو محصول یک محصول رایگان از ما دریافت.کنید <br>.این موضوع شامل تمام محصولات سایت ما میشود</p>
+                                        <a class="main-btn" href="#contact" data-animation="fadeInUp" data-delay="1.5s">ارتباط با ما<i class="lni-chevron-right"></i></a>
+                                    </div> <!-- slider product content -->
+                                </div>
+                            </div> <!-- row -->
+                        </div> <!-- container -->
+                </div> <!-- single slider -->
+            </div> <!-- slider active -->
+            <div class="slider-social">
+                <div class="row justify-content-end">
+                    <div class="col-lg-7 col-md-6">
+                        <ul class="social text-right">
+                            <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+                            <li><a href="#"><i class="lni-twitter-original"></i></a></li>
+                            <li><a href="#"><i class="lni-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div> <!-- container fluid -->
+    </section>
+    
+    <!--====== SLIDER PART ENDS ======-->
+   
+    <!--====== DISCOUNT PRODUCT PART START ======-->
+    
+    <section id="discount-product" class="discount-product pt-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="single-discount-product mt-30">
+                        <div class="product-image">
+                            <img src="product-1.jpg" alt="Product">
+                        </div> <!-- product image -->
+                        <div class="product-content">
+                            <h4 style="text-align: right;" class="content-title mb-15">مبلمان با کیفیت بالا<br>برای خانه شما</h4>
+                            <a href="#">مشاهده مجموعه<i class="lni-chevron-right"></i></a>
+                        </div> <!-- product content -->
+                    </div> <!-- single discount product -->
+                </div>
+                <div class="col-lg-6">
+                    <div class="single-discount-product mt-30">
+                        <div class="product-image">
+                            <img src="product-2.jpg" alt="Product">
+                        </div> <!-- product image -->
+                        <div class="product-content">
+                            <h4 style="text-align: right;" class="content-title mb-15">پیشنهاد داغ<br>تخفیف تا %80</h4>
+                            <a href="#">مشاهده مجموعه<i class="lni-chevron-right"></i></a>
+                        </div> <!-- product content -->
+                    </div> <!-- single discount product -->
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </section>
+    
+    <!--====== DISCOUNT PRODUCT PART ENDS ======-->
+   
+    <!--====== PRODUCT PART START ======-->
+    
+    <section id="product" class="product-area pt-100 pb-130">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-4">
+                    <div class="collection-menu text-center mt-30">
+                        <h4 class="collection-tilte">مجموعه ما</h4>
+                        <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                            <a class="active" id="v-pills-furniture-tab" data-toggle="pill" href="#v-pills-furniture" role="tab" aria-controls="v-pills-furniture" aria-selected="true">مبلمان</a>
+                            
+                            <a id="v-pills-decorative-tab" data-toggle="pill" href="#v-pills-decorative" role="tab" aria-controls="v-pills-decorative" aria-selected="false">تزئینی</a>
+                            
+                            <a id="v-pills-lighting-tab" data-toggle="pill" href="#v-pills-lighting" role="tab" aria-controls="v-pills-lighting" aria-selected="false">نورپردازی</a>
+                            
+                            <a id="v-pills-outdoor-tab" data-toggle="pill" href="#v-pills-outdoor" role="tab" aria-controls="v-pills-outdoor" aria-selected="false">فضای باز</a>
+                            
+                            <a id="v-pills-storage-tab" data-toggle="pill" href="#v-pills-storage" role="tab" aria-controls="v-pills-storage" aria-selected="false">ذخیره سازی</a>
+                        </div> <!-- nav -->
+                    </div> <!-- collection menu -->
+                </div>
+                <div class="col-lg-9 col-md-8">
+                    <div class="tab-content" id="v-pills-tabContent">
+                        <div class="tab-pane fade show active" id="v-pills-furniture" role="tabpanel" aria-labelledby="v-pills-furniture-tab">
+                            <div class="product-items mt-30">
+                                <div class="row product-items-active">
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-1.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی فیبر</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">205800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-2.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>20%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">541800 تومان</span>
+                                                <span class="discount-price">667800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-3.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>10%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">کمد لباس کلاسیک</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star"></i></li>
+                                                </ul>
+                                                <span class="regular-price">373800 تومان</span>
+                                                <span class="discount-price">541800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-1.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-2.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                </div> <!-- row -->
+                            </div> <!-- product items -->
+                        </div> <!-- tab pane -->
+
+                        <div class="tab-pane fade" id="v-pills-decorative" role="tabpanel" aria-labelledby="v-pills-decorative-tab">
+                            <div class="product-items mt-30">
+                                <div class="row product-items-active">
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-1.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-2.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-3.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-1.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-2.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                </div> <!-- row -->
+                            </div> <!-- product items -->
+                        </div> <!-- tab pane -->
+
+                        <div class="tab-pane fade" id="v-pills-lighting" role="tabpanel" aria-labelledby="v-pills-lighting-tab">
+                            <div class="product-items mt-30">
+                                <div class="row product-items-active">
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-1.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-2.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-3.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-1.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-2.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                </div> <!-- row -->
+                            </div> <!-- product items -->
+                        </div> <!-- tab pane -->
+
+                        <div class="tab-pane fade" id="v-pills-outdoor" role="tabpanel" aria-labelledby="v-pills-outdoor-tab">
+                            <div class="product-items mt-30">
+                                <div class="row product-items-active">
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-1.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-2.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی </a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-3.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-1.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-2.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                </div> <!-- row -->
+                            </div> <!-- product items -->
+                        </div> <!-- tab pane -->
+
+                        <div class="tab-pane fade" id="v-pills-storage" role="tabpanel" aria-labelledby="v-pills-storage-tab">
+                            <div class="product-items mt-30">
+                                <div class="row product-items-active">
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-1.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-2.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-3.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-1.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="single-product-items">
+                                            <div class="product-item-image">
+                                                <a href="#"><img src="p-2.jpg" alt="Product"></a>
+                                                <div class="product-discount-tag">
+                                                    <p>60%</p>
+                                                </div>
+                                            </div>
+                                            <div class="product-item-content text-center mt-30">
+                                                <h5 class="product-title"><a href="#">صندلی چوبی</a></h5>
+                                                <ul class="rating">
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                    <li><i class="lni-star-filled"></i></li>
+                                                </ul>
+                                                <span class="regular-price">247800 تومان</span>
+                                                <span class="discount-price">289800 تومان</span>
+                                            </div>
+                                        </div> <!-- single product items -->
+                                    </div>
+                                </div> <!-- row -->
+                            </div> <!-- product items -->
+                        </div> <!-- tab pane -->
+                    </div> <!-- tab content --> 
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </section>
+    
+    <!--====== PRODUCT PART ENDS ======-->
+
+    <!--====== SERVICES PART START ======-->
+    
+    <section id="service" class="services-area pt-125 pb-130">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="section-title pb-30">
+                        <h5 class="mb-15">داستان ما</h5>
+                        <h3 class="title mb-15">خانه شیرین خود را بسازید</h3>
+                        <p> شما میتوانید دکوراسیون خود را به هر شکلی که میخواهید بسازید چگونه ؟ با در یافت خدمات ما میتوانید محصولات دکوراسیون خود را انتخاب کرده و خریداری کنید و یا از طریق  ارتباط با ما محصول سفارشی خود را به پشتیبانی سایت ما توضیح داده تا محصول ساخته شده خود را تحویل بگیرید </p>
+                    </div> <!-- section title -->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="services-left mt-45">
+                        <div class="services">
+                            <img src="services.jpg" alt="">
+                            <a href="#" class="main-btn mt-30">ادامه مطلب<i class="lni-chevron-right"></i></a>
+                        </div> <!-- services btn -->
+                    </div> <!-- services left -->
+                </div>
+                <div class="col-lg-6">
+                    
+                    <div class="services-right mt-45">
+                        <div class="row justify-content-center">
+                            <div class="col-md-6 col-sm-8">
+                                <div class="single-services text-center">
+                                    <div class="services-icon">
+                                        <i class="lni-grid-alt"></i>
+                                    </div>
+                                    <div class="services-content mt-20">
+                                        <h5 class="title mb-10">مبلمان</h5>
+                                        <p> ما به شما تجربه‌ای استثنایی از دنیای مبلمان عالی و جذاب ارائه می‌دهیم. با جزئیات ظریف، کیفیت بالا و طرح‌های منحصربفرد، مبلمان ما قادر است تمامی نیازها و خواسته‌های شما را برآورده کند. </p>
+                                    </div>
+                                </div> <!-- single services -->
+                                
+                                <div class="single-services text-center mt-30">
+                                    <div class="services-icon">
+                                        <i class="lni-ruler-pencil"></i>
+                                    </div>
+                                    <div class="services-content mt-20">
+                                        <h5 class="title mb-10">تزیین</h5>
+                                        <p>ما در اینجا با افتخار به شما مجموعه ای از لوازم تزیینی بی‌نظیر را ارائه می‌دهیم که به فضای زندگیتان رنگ و روحیه‌ای نو می بخشد</p>
+                                    </div>
+                                </div> <!-- single services -->
+                            </div>
+                            <div class="col-md-6 col-sm-8">
+                                <div class="single-services text-center mt-30">
+                                    <div class="services-icon">
+                                        <i class="lni-customer"></i>
+                                    </div>
+                                    <div class="services-content mt-20">
+                                        <h5 class="title mb-10">مشاوره</h5>
+                                        <p> در اینجا میتوانید از پشتیبانی ما راجب محصولات وخدمات مشاوره رایگان دریافت کنید</p>
+                                    </div>
+                                </div> <!-- single services -->
+                                
+                                <div class="single-services text-center mt-30">
+                                    <div class="services-icon">
+                                        <i class="lni-support"></i>
+                                    </div>
+                                    <div class="services-content mt-20">
+                                        <h5 class="title mb-10">سفارشات سفارشی</h5>
+                                        <p> ما اینجا برای شما امکان سفارش محصول مد نظر خود را قرار دادیم به این صورت که شما محصول مورد نظر خود را به پشتیبانی ما توضیح داده و پس از انجام مراحل ساخت تیم ما محصول سفارشی شما رابه شما تحویل خواهند داد</p>
+                                    </div>
+                                </div> <!-- single services -->
+                            </div>
+                        </div> <!-- row -->
+                    </div> <!-- services right -->
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </section>
+    
+    <!--====== SERVICES PART ENDS ======-->
+
+    <!--====== SHOWCASE PART START ======-->
+    
+    <section id="showcase" class="showcase-area pt-100 pb-130">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="showcase-title pt-25">
+                        <h2 style="text-align: center;" class="title">ویترین</h2>
+                    </div> <!-- showcase title -->
+                </div> 
+                <div class="col-lg-6">
+                    <div class="showcase-title pt-25">
+                        <p> در این قسمت میتوانید ویترینی از محصولات جذاب ما را مشاهده کنید  از جمله میز و صندلی های مخصوص کار مبلمان راحتی و کاناپه و دکوراسیون داخلی و میز ارایشی و بسیاری از محصولات جذاب ما که شما میتوانید با توجه به سلیقه و نوع خانه خود طبق این استاندارد ها محصولات مناسب خود را انتخاب کرده و خریداری کنید </p>
+                    </div> <!-- showcase title -->
+                </div>
+            </div> <!-- row -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="showcase-active mt-65">
+                        <div class="single-showcase">
+                            <img src="t-1.jpg" alt="Testimonial">
+                            <a href="#" class="main-btn">پیش نمایش کامل</a>
+                        </div> <!-- single showcase -->
+                        <div class="single-showcase">
+                            <img src="t-2.jpg" alt="Testimonial">
+                            <a href="#" class="main-btn">پیش نمایش کامل</a>
+                        </div> <!-- single showcase -->
+                    </div> <!-- showcase active -->
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </section>
+    
+    <!--====== SHOWCASE PART ENDS ======-->
+
+    <!--====== TEAM PART START ======-->
+    
+    <section id="team" class="team-area pt-125 pb-130">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-6">
+                    <div class="section-title text-center pb-25">
+                        <h3 class="title mb-15">تیم متخصص ما</h3>
+                        <p>در اینجا شما میتوانید با توجه به کار تخصصی هر تیم مشاوره رایگان دریافت کرده تا با خیال اسوده و انتخابی درست خریداری کرده و از خرید خود لذت ببرید</p>
+                    </div> <!-- section title -->
+                </div>
+            </div> <!-- row -->
+            <div class="row justify-content-center">
+                <div class="col-lg-3 col-md-6 col-sm-8">
+                    <div class="single-temp text-center mt-30">
+                        <div class="team-image">
+                            <img src=""
+                             alt="تیم">
+                        </div>
+                        <div class="team-content mt-30">
+                            <h4 class="title mb-10"><a href="#">سلینا گومز</a></h4>
+                            <span>موسس</span>
+                            <ul class="social mt-15">
+                                <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+                                <li><a href="#"><i class="lni-twitter-original"></i></a></li>
+                                <li><a href="#"><i class="lni-instagram"></i></a></li>
+                            </ul>
+                        </div>
+                    </div> <!-- single temp -->
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-8">
+                    <div class="single-temp text-center mt-30">
+                        <div class="team-image">
+                             <img src=""
+                             alt="تیم">
+                        </div>
+                        <div class="team-content mt-30">
+                            <h4 class="title mb-10"><a href="#">پاتریک سبز</a></h4>
+                            <span>مشاور</span>
+                            <ul class="social mt-15">
+                                <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+                                <li><a href="#"><i class="lni-twitter-original"></i></a></li>
+                                <li><a href="#"><i class="lni-instagram"></i></a></li>
+                            </ul>
+                        </div>
+                    </div> <!-- single temp -->
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-8">
+                    <div class="single-temp text-center mt-30">
+                        <div class="team-image">
+                             <img src=""
+                             alt="تیم">
+                        </div>
+                        <div class="team-content mt-30">
+                            <h4 class="title mb-10"><a href="#">علامت پارکر</a></h4>
+                            <span>مدیر تجاری</span>
+                            <ul class="social mt-15">
+                                <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+                                <li><a href="#"><i class="lni-twitter-original"></i></a></li>
+                                <li><a href="#"><i class="lni-instagram"></i></a></li>
+                            </ul>
+                        </div>
+                    </div> <!-- single temp -->
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-8">
+                    <div class="single-temp text-center mt-30">
+                        <div class="team-image">
+                            
+                             <img src=""
+                             alt="تیم">
+                        </div>
+                        <div class="team-content mt-30">
+                            <h4 class="title mb-10"><a href="#">داریل دیکسون</a></h4>
+                            <span>مدیر بازاریابی</span>
+                            <ul class="social mt-15">
+                                <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+                                <li><a href="#"><i class="lni-twitter-original"></i></a></li>
+                                <li><a href="#"><i class="lni-instagram"></i></a></li>
+                            </ul>
+                        </div>
+                    </div> <!-- single temp -->
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </section>
+    
+    <!--====== TEAM PART ENDS ======-->
+
+    <!--====== TESTIMONIAL PART START ======-->
+    
+    <section id="testimonial" class="testimonial-area pt-200">
+        <div class="testimonial-bg bg_cover" style="background-image: url(ts-bg.jpg)"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-md-8">
+                    <div class="testimonial-content">
+                        <div class="testimonial-active">
+                            <div class="single-testimonial">
+                                <i class="lni-quotation"></i>
+                                <p class="mb-30">شما میتوانید در این ویدیو رضایت مشتریانی که از محصولات ما خریداری کرده اند و یا محصول مد نظر خود را برای ساخت سفارش داده اند را مشاهده بکنید این موفقیت حاصل همکاری و تلاش های تیم متخصص ما است که رضایت مشتری را به ارمغان اورده است</p>
+                                <h6 class="title">Roma De Suza</h6>
+                                <span>- CEO, Tesla</span>
+                            </div> <!-- single testimonial -->
+                            <div class="single-testimonial">
+                                <i class="lni-quotation"></i>
+                                <p class="mb-30">شما در این ویدیو فرایند ساخت و کار تیم متخصص ما را به وضوح میتوانید مشاهده کنید</p>
+                                <h6 class="title">Lisa White</h6>
+                                <span>- Designer, Walmart</span>
+                            </div> <!-- single testimonial -->
+                        </div> <!-- testimonial active -->
+                    </div> <!-- testimonial content -->
+                </div>
+                <div class="col-lg-7 col-md-4">
+                    <div class="testimonial-play text-right d-none d-md-block">
+                        <a class="Video-popup" href="https://www.youtube.com/watch?v=l8ccw7BMrMA"><i class="lni-play"></i></a>
+                    </div> <!-- testimonial play -->
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </section>
+    
+    <!--====== TESTIMONIAL PART ENDS ======-->
+
+    <!--======  BLOG PART START ======-->
+    
+    <section id="blog" class="blog-area pt-125">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-6">
+                    <div class="section-title text-center pb-25">
+                        <h3 class="title mb-15">وبلاگ</h3>
+                        <p>این قسمت برای اطلاعات عمومی شما است شما میتوانید با مطالعه وبلاگ از محصولات دکوراسیونی و تزیینی اطلاعات بیشتری به دست اورید امیدواریم که از این مطالب لذت ببرید</p>
+                    </div> <!-- section title -->
+                </div>
+            </div> <!-- row -->
+            <div class="row justify-content-center">
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-blog mt-30">
+                        <div class="blog-image">
+                            <img src="b-1.jpg" alt="Blog">
+                        </div>
+                        <div class="blog-content">
+                            <div class="content">
+                                <h4 class="title"><a href="#">چگونه دکوراسیون ارامش بخشی طراحی کنم ؟</a></h4>
+                                <span>25 ژوئیه، 2022</span>
+                            </div>
+                            <div class="meta d-flex justify-content-between align-items-center">
+                                <div class="meta-admin d-flex align-items-center">
+                                    <div class="image">
+                                        <a href="#"><img src="admin.jpg" alt="Admin"></a>
+                                    </div>
+                                    <div class="admin-title">
+                                        <h6 class="title"><a href="#">سارا بیاتی</a></h6>
+                                    </div>
+                                </div>  <!-- meta admin -->
+                                <div class="meta-icon">
+                                    <ul>
+                                        <li><a href="#"><i class="lni-share"></i></a></li>
+                                        <li><a href="#"><i class="lni-heart"></i></a></li>
+                                    </ul>
+                                </div> <!-- meta icon -->
+                            </div> <!-- meta -->
+                        </div>
+                    </div> <!-- single blog -->
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-blog mt-30">
+                        <div class="blog-image">
+                            <img src="b-2.jpg" alt="Blog">
+                        </div>
+                        <div class="blog-content">
+                            <div class="content">
+                                <h4 class="title"><a href="#">چه نوع مبلمانی مناسب خانه من است ؟</a></h4>
+                                <span>February 5, 2022</span>
+                            </div>
+                            <div class="meta d-flex justify-content-between align-items-center">
+                                <div class="meta-admin d-flex align-items-center">
+                                    <div class="image">
+                                        <a href="#"><img src="admin.jpg" alt="Admin"></a>
+                                    </div>
+                                    <div class="admin-title">
+                                        <h6 class="title"><a href="#">سینا محمودی</a></h6>
+                                    </div>
+                                </div>  <!-- meta admin -->
+                                <div class="meta-icon">
+                                    <ul>
+                                        <li><a href="#"><i class="lni-share"></i></a></li>
+                                        <li><a href="#"><i class="lni-heart"></i></a></li>
+                                    </ul>
+                                </div> <!-- meta icon -->
+                            </div> <!-- meta -->
+                        </div>
+                    </div> <!-- single blog -->
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-blog mt-30">
+                        <div class="blog-image">
+                            <img src="b-3.jpg" alt="Blog">
+                        </div>
+                        <div class="blog-content">
+                            <div class="content">
+                                <h4 class="title"><a href="#">چگونه دکوراسیون حرفه ای انتخاب کنم ؟</a></h4>
+                                <span>October 9, 2022</span>
+                            </div>
+                            <div class="meta d-flex justify-content-between align-items-center">
+                                <div class="meta-admin d-flex align-items-center">
+                                    <div class="image">
+                                        <a href="#"><img src="admin.jpg" alt="Admin"></a>
+                                    </div>
+                                    <div class="admin-title">
+                                        <h6 class="title"><a href="#">محمد نادری</a></h6>
+                                    </div>
+                                </div>  <!-- meta admin -->
+                                <div class="meta-icon">
+                                    <ul>
+                                        <li><a href="#"><i class="lni-share"></i></a></li>
+                                        <li><a href="#"><i class="lni-heart"></i></a></li>
+                                    </ul>
+                                </div> <!-- meta icon -->
+                            </div> <!-- meta -->
+                        </div>
+                    </div> <!-- single blog -->
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </section>
+    
+    <!--======  BLOG PART ENDS ======-->
+
+    <!--====== CONTACT PART START ======-->
+    
+    <section id="contact" class="contact-area pt-115">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-6">
+                    <div class="contact-title text-center">
+                        <h2 class="title">در تماس باشید</h2>
+                    </div> <!-- contact title -->
+                </div>
+            </div> <!-- row -->
+            <div class="contact-box mt-70">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="contact-info pt-25">
+                            <h4 class="info-title">اطلاعات تماس</h4>
+                            <ul>
+                                <li>
+                                    <div class="single-info mt-30">
+                                        <div class="info-icon">
+                                            <i class="lni-phone-handset"></i>
+                                        </div>
+                                        <div class="info-content">
+                                            <p>09214979154</p>
+                                        </div>
+                                    </div> <!-- single info -->
+                                </li>
+                                <li>
+                                    <div class="single-info mt-30">
+                                        <div class="info-icon">
+                                            <i class="lni-envelope"></i>
+                                        </div>
+                                        <div class="info-content">
+                                            <p>contact@yourmail.com</p>
+                                        </div>
+                                    </div> <!-- single info -->
+                                </li>
+                                <li>
+                                    <div class="single-info mt-30">
+                                        <div class="info-icon">
+                                            <i class="lni-home"></i>
+                                        </div>
+                                        <div class="info-content">
+                                            <p>203، آزمایشگاه انواتو، پشت خیابان آلیس، استرالیا</p>
+                                        </div>
+                                    </div> <!-- single info -->
+                                </li>
+                            </ul>
+                        </div> <!-- contact info -->
+                    </div> 
+                    <div class="col-lg-8">
+                        <div class="contact-form">
+                            <form id="contact-form" action="contact.php" method="post" data-toggle="validator">
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="single-form form-group">
+                                            <input type="text" name="name" placeholder="اسم خود را وارد کنید" data-error="Name is required." required="required">
+                                            <div class="help-block with-errors"></div>
+                                        </div> <!-- single form -->
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="single-form form-group">
+                                            <input type="email" name="email" placeholder="ایمیل خود را وارد کنید"  data-error="Valid email is required." required="required">
+                                            <div class="help-block with-errors"></div>
+                                        </div> <!-- single form -->
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="single-form form-group">
+                                            <textarea name="message" placeholder="پیام خود را قرار دهید" data-error="Please,leave us a message." required="required"></textarea>
+                                            <div class="help-block with-errors"></div>
+                                        </div> <!-- single form -->
+                                    </div>
+                                    <p class="form-message"></p>
+                                    <div class="col-lg-12">
+                                        <div class="single-form form-group">
+                                            <button class="main-btn" type="submit">مخاطب اکنون</button>
+                                        </div> <!-- single form -->
+                                    </div>
+                                </div> <!-- row -->
+                            </form>
+                        </div> <!-- row -->
+                    </div> 
+                </div> <!-- row -->
+            </div> <!-- contact box -->
+        </div> <!-- container -->
+    </section>
+    
+    <!--====== CONTACT PART ENDS ======-->
+
+    <!--====== FOOTER PART START ======-->
+    
+    <section id="footer" class="footer-area">
+        <div class="container">
+            <div class="footer-widget pt-75 pb-120">
+                <div class="row">
+                    <div class="col-lg-3 col-md-5 col-sm-7">
+                        <div class="footer-logo mt-40">
+                            <a href="#">
+                                <img src="logo.png" alt="Logo">
+                            </a>
+                            <p class="mt-10">در فرنیش، ما به عنوان یک فروشگاه متخصص در زمینه دکوراسیون داخلی، برترین و جذاب‌ترین محصولات را به شما ارائه می‌دهیم. هدف ما ارائه طراحی‌های منحصربفرد، کیفیت بالا و تجربه‌ای لازم برای تبدیل فضای خانه‌تان به یک آثار هنری است</p>
+                            <ul class="footer-social mt-25">
+                                <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
+                                <li><a href="#"><i class="lni-twitter-original"></i></a></li>
+                                <li><a href="#"><i class="lni-instagram"></i></a></li>
+                            </ul>
+                        </div> <!-- footer logo -->
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-5">
+                        <div class="footer-link mt-50">
+                            <h5 class="f-title">خدمات</h5>
+                            <ul>
+                                <li><a href="#">طراحی معماری</a></li>
+                                <li><a href="#">طراحی داخلی</a></li>
+                                <li><a href="#">خدمات اتوکد</a></li>
+                                <li><a href="#">طراحی نورپردازی</a></li>
+                                <li><a href="#">طراحی پوستر</a></li>
+                            </ul>
+                        </div> <!-- footer link -->
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-sm-5">
+                        <div class="footer-link mt-50">
+                            <h5 class="f-title">راهنما</h5>
+                            <ul>
+                                <li><a href="#">انجمن</a></li>
+                                <li><a href="#">بلاگ</a></li>
+                                <li><a href="#">راهنمای مرکزی</a></li>
+                                <li><a href="#">با ما تماس بگیرید</a></li>
+                                <li><a href="#">سیاست حفظ حریم خصوصی</a></li>
+                            </ul>
+                        </div> <!-- footer link -->
+                    </div>
+                    <div class="col-lg-4 col-md-5 col-sm-7">
+                        <div class="footer-info mt-50">
+                            <h5 class="f-title">اطلاعات تماس</h5>
+                            <ul>
+                                <li>
+                                    <div class="single-footer-info mt-20">
+                                        <span> تلفن :</span>
+                                        <div class="footer-info-content">
+                                            <p>09214979154</p>
+                                            <p>09141771437</p>
+                                        </div>
+                                    </div> <!-- single footer info -->
+                                </li>
+                                <li>
+                                    <div class="single-footer-info mt-20">
+                                        <span>ایمیل :</span>
+                                        <div class="footer-info-content">
+                                            <p>contact@yourmail.com</p>
+                                            <p>support@yourmail.com</p>
+                                        </div>
+                                    </div> <!-- single footer info -->
+                                </li>
+                                <li>
+                                    <div class="single-footer-info mt-20">
+                                        <span> آدرس :</span>
+                                        <div class="footer-info-content">
+                                            <p>5078 جنسن کی، پورت کایا، WV 73505</p>
+                                        </div>
+                                    </div> <!-- single footer info -->
+                                </li>
+                            </ul>
+                        </div> <!-- footer link -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!-- footer widget -->
+            <div class="footer-copyright pt-15 pb-15">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="copyright text-center">
+                            <p>Crafted by <a href="https://uideck.com" rel="nofollow">UIdeck</a></p>
+                        </div> <!-- copyright -->
+                    </div>
+                </div> <!-- row -->
+            </div> <!--  footer copyright -->
+        </div> <!-- container -->
+    </section>
+    
+    <!--====== FOOTER PART ENDS ======-->
+    
+    <!--====== BACK TO TOP PART START ======-->
+    
+    <a href="#" class="back-to-top"><i class="lni-chevron-up"></i></a>
+    
+    <!--====== BACK TO TOP PART ENDS ======-->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <!--====== jquery js ======-->
+    <script src="modernizr-3.6.0.min.js"></script>
+    <script src="jquery-1.12.4.min.js"></script>
+
+    <!--====== Bootstrap js ======-->
+    <script src="bootstrap.min.js"></script>
+    
+    
+    <!--====== Slick js ======-->
+    <script src="slick.min.js"></script>
+    
+    <!--====== Magnific Popup js ======-->
+    <script src="jquery.magnific-popup.min.js"></script>
+
+    
+    <!--====== nav js ======-->
+    <script src="jquery.nav.js"></script>
+    
+    <!--====== Nice Number js ======-->
+    <script src="jquery.nice-number.min.js"></script>
+    
+    <!--====== Main js ======-->
+    <script src="main.js"></script>
+
+</body>
+
+</html>
